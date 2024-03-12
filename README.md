@@ -32,7 +32,7 @@
 | タイトル | プレイヤー数 | 実施回数 | URL |
 |----------|--------------|----------|------------------------------|
 | 見やるは、誰ぞ、 | 3 | 2 | https://booth.pm/ja/items/3690322 |
-| ワタナベ | 3 | 2 | https://www.joymada.com/madanabi/6259/ |
+| ワタナベ | 3 | 2 | https://ousama.booth.pm/items/3438715 |
 | つづりあわせの流儀 | 3 | 1 | https://kitankan.com/scenario/ryugi/index.html |
 | 死者の湯加減 | 4 | 2 | https://booth.pm/ja/items/2231685 |
 
